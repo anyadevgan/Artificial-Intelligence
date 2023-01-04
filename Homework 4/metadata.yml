@@ -1,0 +1,12 @@
+---
+:id: 82449619
+:submitters:
+- :name: Anya Devgan
+  :email: ad3706@barnard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-06-10 03:59:21.419619000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-06-09 20:59:21.419619000 Z
+:status: processed
+:score: 86.0
